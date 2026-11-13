@@ -1,3 +1,7 @@
 import os
 
-print (os.listdr())
+print (os.listdir())
+
+print(os.get_blocking())
+
+print(os.get_inheritable())
