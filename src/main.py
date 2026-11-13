@@ -1,7 +1,6 @@
 import os
 
-print (os.listdir())
+print (os.listdr())
 
-print(os.get_blocking())
-
-print(os.get_inheritable())
+os.listdir() 
+# we are using os model to track the file 
