@@ -1,4 +1,4 @@
 im 3.txt 
 l ""
 
--nice
+ -nice
